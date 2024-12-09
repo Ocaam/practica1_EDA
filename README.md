@@ -10,4 +10,4 @@ Mail:
 pablo.oceja@cunef.edu
 
 URL del repositorio
-https://github.com/Ocaam/practica_EDA.git
+https://github.com/Ocaam/practica1_EDA
